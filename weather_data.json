@@ -1,0 +1,8 @@
+[
+    {
+        "date": "2009-03-11",
+        "temperature": 11.0,
+        "description": "холодно, снег",
+        "precipitation": true
+    }
+]
